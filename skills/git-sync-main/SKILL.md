@@ -1,5 +1,5 @@
 ---
-name: sync-main
+name: git-sync-main
 description: mainブランチに切り替えて最新のリモートmainを取得する。「mainに戻りたい」「一旦mainに」「最新のmain取ってきて」「main同期して」「ブランチ作業終わったからmainに戻る」「pullして」など、mainブランチへの切り替えやリモート同期に関するリクエストで使用する。単に「mainに」と言われた場合もこのスキルを使う。
 disable-model-invocation: true
 ---

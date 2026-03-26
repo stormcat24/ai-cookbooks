@@ -1,5 +1,5 @@
 ---
-name: create-pr
+name: git-create-pr
 description: 現在の変更からブランチを作成し、コミットしてPull Requestを作成する。「PR出して」「PRにして」「レビューに出したい」「ブランチ切ってPR作って」「この変更をPRにまとめて」「プルリク作成」など、変更をPull Requestとして提出したいリクエストで使用する。mainブランチ上で作業している場合に特に有用。
 disable-model-invocation: true
 ---
